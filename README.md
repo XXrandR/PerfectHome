@@ -1,5 +1,5 @@
-# Android Simple Launcher (PCS)
-The intention of this launcher(PCS) is to manage the home screen of an Android device. With simplicity in mind, and with beauty and aesthetics on the interface.
+# PerfectHome
+With simplicity in behavior, and with beauty and aesthetics on the interface. The intention of this launcher is to manage the home screen of an Android device.
 
 ## Features of the launcher
 
