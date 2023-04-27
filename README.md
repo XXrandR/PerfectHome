@@ -1,7 +1,7 @@
 # PerfectHome
 With simplicity in behavior, and with beauty and aesthetics on the interface. The intention of this launcher is to manage the home screen of an Android device.
 
-
+<img src="https://user-images.githubusercontent.com/93055563/234946424-28e41a33-50f9-4b58-97a6-28fd417e6f62.png" width="200"/>
 
 ## Features of the launcher
 
