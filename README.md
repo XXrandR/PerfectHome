@@ -1,6 +1,8 @@
 # PerfectHome
 With simplicity in behavior, and with beauty and aesthetics on the interface. The intention of this launcher is to manage the home screen of an Android device.
 
+
+
 ## Features of the launcher
 
 - 1. Drag and drop: Users can drag and drop icons or widgets to rearrange their positions on the screen. This can be done by using the onTouchListener and onDragListener to detect touch and drag events, and by updating the position of the dragged item in the grid layout.
